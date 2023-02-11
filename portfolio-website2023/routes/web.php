@@ -19,3 +19,15 @@ Route::get('/', function () {
 Route::get('/over-mij', function () {
     return view('pages/about');
 });
+Route::get('/vaardigheden', function () {
+    return view('pages/skills');
+});
+Route::get('/ervaring', function () {
+    return view('pages/experience');
+});
+Route::get('/projecten', function () {
+    return view('pages/projects');
+});
+Route::get('/contact', function () {
+    return view('pages/contact');
+});

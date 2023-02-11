@@ -49,7 +49,7 @@
                 <a href="/ervaring" class="nav-item nav-link">Ervaring</a>
             </li>
             <li class="nav-item">
-                <a href="/portfolio" class="nav-item nav-link">Portfolio</a>
+                <a href="/projecten" class="nav-item nav-link">Projecten</a>
             </li>
             <li class="nav-item">
                 <a href="/contact" class="nav-item nav-link">Contact</a>
