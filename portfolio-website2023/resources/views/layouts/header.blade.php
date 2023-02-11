@@ -37,22 +37,22 @@
     <div class="collapse navbar-collapse px-lg-3" id="navbarCollapse">
         <ul class="navbar-nav m-auto py-0 align-items-end">
             <li class="nav-item">
-                <a href="#home" class="nav-link">Home</a>
+                <a href="/" class="nav-link">Home</a>
             </li>
             <li class="nav-item">
-                <a href="#" class="nav-item nav-link">Over mij</a>
+                <a href="/over-mij" class="nav-item nav-link">Over mij</a>
             </li>
             <li class="nav-item">
-                <a href="#" class="nav-item nav-link">Vaardigheden</a>
+                <a href="/vaardigheden" class="nav-item nav-link">Vaardigheden</a>
             </li>
             <li class="nav-item">
-                <a href="#" class="nav-item nav-link">Ervaring</a>
+                <a href="/ervaring" class="nav-item nav-link">Ervaring</a>
             </li>
             <li class="nav-item">
-                <a href="#" class="nav-item nav-link">Portfolio</a>
+                <a href="/portfolio" class="nav-item nav-link">Portfolio</a>
             </li>
             <li class="nav-item">
-                <a href="#" class="nav-item nav-link">Contact</a>
+                <a href="/contact" class="nav-item nav-link">Contact</a>
             </li>
         </ul>
     </div>
