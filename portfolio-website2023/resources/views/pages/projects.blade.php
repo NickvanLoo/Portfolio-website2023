@@ -10,6 +10,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-8">
                 <div class="text-center">
+                    <h3>Deze pagina is nog onder constructie.</h3>
                     <h3>Github Repositories API:</h3>
                     <div class="table-responsive">
                         <table class="table table-bordered table-wrapper-scroll-y my-custom-scrollbar">

@@ -43,6 +43,9 @@
                 <a href="/over-mij" class="nav-item nav-link">Over mij</a>
             </li>
             <li class="nav-item">
+                <a href="/blog" class="nav-item nav-link">Blog</a>
+            </li>
+            <li class="nav-item">
                 <a href="/vaardigheden" class="nav-item nav-link">Vaardigheden</a>
             </li>
             <li class="nav-item">

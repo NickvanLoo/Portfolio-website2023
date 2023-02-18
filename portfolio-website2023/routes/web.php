@@ -19,6 +19,9 @@ Route::get('/', function () {
 Route::get('/over-mij', function () {
     return view('pages/about');
 });
+Route::get('/blog', function () {
+    return view('pages/blog');
+});
 Route::get('/vaardigheden', function () {
     return view('pages/skills');
 });
