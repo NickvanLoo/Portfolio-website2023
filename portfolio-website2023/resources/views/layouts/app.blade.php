@@ -14,7 +14,8 @@
     <link href="https://fonts.bunny.net/css?family=Nunito" rel="stylesheet">
 
     <!-- Js -->
-    <script src="resources/js/main.js"></script>
+    <script type="text/javascript" src="resources/js/main.js"></script>
+    {{-- @vite(["recourses/js/main.js"]); --}}
 
 </head>
 <body>
