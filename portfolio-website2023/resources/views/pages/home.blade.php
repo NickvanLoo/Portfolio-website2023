@@ -18,6 +18,7 @@
 <div class="container">
     <h3>Welkom op mijn Portfolio-website!</h3>
     <p>Op deze website kun je mijn vaardigheden, mijn werkervaring en mijn projecten bekijken.<br>
+        Ook zal er binnenkort een blog pagina online komen.<br>
     Neem gerust contact met me op!</p>
 </div>
 @endsection
