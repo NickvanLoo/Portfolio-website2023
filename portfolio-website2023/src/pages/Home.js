@@ -20,8 +20,13 @@ function Home(){
              <h1>Vaardigheden</h1>
              <ol className="list">
                 <li className="item"></li>
+                <h2>ICT Beheer:</h2>
+                <span>Onder andere: Windows 10, Windows 11, Windows Server, Android, Microsoft 365, ADUC</span>
+             </ol>
+             <ol className="list">
+                <li className="item"></li>
                 <h2>Programmeertalen en tools:</h2>
-                <span>HTML, CSS, Bootstrap, Javascript, PHP, MySQL, Laravel, Joomla CMS, Github, Visual Studio Code</span>
+                <span>Onder andere: HTML, CSS, Bootstrap, Javascript, PHP, MySQL, Laravel, React, Joomla CMS, Wordpress, Github, Visual Studio Code</span>
              </ol>
             </div>
         </div>
