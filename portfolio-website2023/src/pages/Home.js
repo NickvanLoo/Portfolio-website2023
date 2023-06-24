@@ -10,7 +10,7 @@ function Home(){
             <div className="about">
                 <h2>Hallo, mijn naam is Nick van Loo</h2>
                 <div className="prompt">
-                    <p>Ik ben een ICT-er.</p>
+                    <p>Ik ben een ICT-er</p>
                     <a href="https://nl.linkedin.com/in/nick-van-loo-37675b196" target="_blank"><LinkedInIcon /></a>
                     <a href="https://github.com/NickvanLoo" target="_blank"><GithubIcon /></a>
                     <a href="mailto:nick@nickvanloo.nl" target="_blank"><EmailIcon /></a>
