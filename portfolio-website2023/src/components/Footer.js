@@ -12,7 +12,12 @@ function Footer() {
                 <a href="https://github.com/NickvanLoo" target="_blank"><GithubIcon /></a>
                 <a href="mailto:nick@nickvanloo.nl" target="_blank"><EmailIcon /></a>
             </div>
-            <p>&copy; 2023 nickvanloo.nl</p>
+            <p>&copy; 
+                <script>
+                    var CurrentYear = new Date().getFullYear()
+                    document.write(CurrentYear)
+                </script> Nick van Loo. All Rights Reserved.
+            </p>
         </div>
     )
 }
