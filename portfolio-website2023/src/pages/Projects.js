@@ -10,7 +10,7 @@ function Projects() {
             <h1>Mijn Projecten</h1>
             <h3>Deze pagina is nog in ontwikkeling!</h3>
             <div className="projectList">
-                <a href="https://github.com/NickvanLoo" target="_blank">
+                <a href="https://github.com/NickvanLoo" aria-label="Mijn Github pagina" target="_blank">
                 <ProjectItem name="Mijn github" image={MijnGithub} />
                 </a>
             </div>

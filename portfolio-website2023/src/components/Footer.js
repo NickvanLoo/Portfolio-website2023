@@ -8,9 +8,9 @@ function Footer() {
     return (
         <div className="footer">
             <div className="socialMedia">
-                <a href="https://nl.linkedin.com/in/nick-van-loo-37675b196" target="_blank"><LinkedInIcon /></a>
-                <a href="https://github.com/NickvanLoo" target="_blank"><GithubIcon /></a>
-                <a href="mailto:nick@nickvanloo.nl" target="_blank"><EmailIcon /></a>
+                <a href="https://nl.linkedin.com/in/nick-van-loo-37675b196" aria-label="Mijn LinkedIn" target="_blank"><LinkedInIcon /></a>
+                <a href="https://github.com/NickvanLoo" aria-label="Mijn Github pagina" target="_blank"><GithubIcon /></a>
+                <a href="mailto:nick@nickvanloo.nl" aria-label="Neem contact met me op" target="_blank"><EmailIcon /></a>
             </div>
             <p>&copy; 
                 <script>
