@@ -8,10 +8,9 @@ function Projects() {
     return (
         <div className="projects">
             <h1>Mijn Projecten</h1>
-            <h3>Deze pagina is nog in ontwikkeling!</h3>
             <div className="projectList">
                 <a href="https://github.com/NickvanLoo" aria-label="Mijn Github pagina" target="_blank">
-                <ProjectItem name="Mijn github" image={MijnGithub} />
+                <ProjectItem name="Mijn Github" image={MijnGithub} />
                 </a>
             </div>
         </div>

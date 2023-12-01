@@ -17,16 +17,18 @@ function Home() {
                 </div>
             </div>
             <div className="skills">
-                <h1>Vaardigheden</h1>
+                <h2>Vaardigheden</h2>
                 <ol className="list">
                     <li className="item"></li>
-                    <h2>ICT Beheer:</h2>
-                    <span>Onder andere: Windows 10, Windows 11, Windows Server, Android, Microsoft 365, ADUC</span>
+                    <h3>ICT Beheer:</h3>
+                    <span>Onder andere: <br />
+                        Windows 10, Windows 11, Windows Server, Android, Microsoft 365, Active Directory</span>
                 </ol>
                 <ol className="list">
                     <li className="item"></li>
-                    <h2>Programmeertalen en tools:</h2>
-                    <span>Onder andere: HTML, CSS, Bootstrap, Javascript, PHP, MySQL, Laravel, React, Joomla CMS, Wordpress, Github, Visual Studio Code</span>
+                    <h3>Programmeertalen en tools:</h3>
+                    <span>Onder andere: <br />
+                        HTML, CSS, Bootstrap, Javascript, PHP, MySQL, Laravel, React, Joomla CMS, Wordpress, Github, Visual Studio Code</span>
                 </ol>
             </div>
         </div>
