@@ -5,6 +5,7 @@ import EmailIcon from "@material-ui/icons/Email";
 import "../styles/Footer.css";
 
 function Footer() {
+    const currentYear = new Date().getFullYear();
     return (
         <div className="footer">
             <div className="socialMedia">
@@ -12,12 +13,7 @@ function Footer() {
                 <a href="https://github.com/NickvanLoo" aria-label="Mijn Github pagina" target="_blank"><GithubIcon /></a>
                 <a href="mailto:nick@nickvanloo.nl" aria-label="Neem contact met me op" target="_blank"><EmailIcon /></a>
             </div>
-            <p>&copy; 
-                <script>
-                    var CurrentYear = new Date().getFullYear()
-                    document.write(CurrentYear)
-                </script> Nick van Loo. All Rights Reserved.
-            </p>
+            <p>&copy; {currentYear} Nick van Loo. All Rights Reserved.</p>
         </div>
     )
 }
